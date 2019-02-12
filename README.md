@@ -3,7 +3,7 @@
 L'exercice consistait à créer un site avec ruby on rails. 
 Voici le lien heroku : 
 
-Travail réalisé par Alexandre, Colin, Côme, Steve et Thomas
+Travail réalisé par Alexandre, Colin, Thomas,  Steve et Côme.
 ## Pour commencer
 Clonez le dépôt.
 ```
